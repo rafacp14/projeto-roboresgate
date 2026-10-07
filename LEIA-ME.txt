@@ -1,0 +1,8 @@
+ROBORESGATE PANTANAL
+
+Extraia o ZIP e abra index.html no navegador.
+Mantenha index.html, style.css, alunos.JPG e prototiporobo.jpg juntos na mesma pasta. Não é necessária pasta de imagens.
+
+Para publicar, envie esses quatro arquivos para a mesma pasta da hospedagem. Respeite as maiúsculas do nome alunos.JPG.
+
+O site adapta-se ao computador e ao celular. Para alterar o texto, edite index.html. Para alterar o visual, edite style.css.
